@@ -2,7 +2,7 @@
 A simple system with four servers and dynamic number of clients, with a DNS server and the associated functionality.  Also has a basic routing protocol to facilitate communication. Built in C and C++, using socket programming. 
 
 ## Required Functionality
-In this assignment we had to implement three basic concepts of networks.
+In this assignment we had to implement three basic concepts of networks:
 - DNS (Domain Name Server), whenever we enter a destination name (website name) it is hosted against some IP and it is resolved by the DNS server
 
 - Simple Routing, after getting IP address from DNS server about destination we need to senddata from source to destination.  A routing protocol specifies how routers communicate with each other, distributing routing information that enables them to select routes between any two nodeson a computer network. These routing protocols share their routing table with each other so that whenever a node has to communicate with another node, the router should know here to forward this packet. 
