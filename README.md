@@ -20,7 +20,7 @@ In this assignment we had to implement three basic concepts of networks:
 
 - All clients should communicate with each other. Like C1 from Server 1 should be able to communicate with C6 of Server 4.
 -
-- We will consider it as a circuit switch network that means if C1 and C6 are communicating then C2 and C4 can not communicate. If they want to do so there should be an error message displayed on their screens that Link 1 is already in use by C1.
+- We will consider it as a circuit switch network that means if C1 and C6 are communicating then C2 and C4 can not communicate. If they want to do so there should be an error message displayed on their screens that Link 1 is already in use by C1. 
 
 - When two clients stop communicating by sharing a message of “close” then this link will be free and other clients can use it.
 
