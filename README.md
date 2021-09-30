@@ -39,3 +39,6 @@ Note: This was built on Ubuntu.
 - In separate terminals, run the executables of all server files in this order s1 -> s2 -> s4 -> proxy
 - Again in separate terminals, run the client executable. For multiple clients, run the same executable in different terminals
 - Select whatever you wish the clients to do from the provided menu.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
